@@ -1,2 +1,3 @@
-# freewater
-Free water for all
+# create react app
+
+# added tailwind
