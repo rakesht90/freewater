@@ -1,3 +1,5 @@
-# create react app
 
-# added tailwind
+
+## Run project 
+- npm install
+- npm start
